@@ -3,7 +3,7 @@ Passion project in which I use data to answer NASCAR Cup Series questions.
 
 ## Questions:
 
-- Which position at the last restart of a race does the race winner begin that last restart at? 
+- Which position does the race winner begin the last restart at? 
     - Answer: [restart_position.ipynb](restart_position.ipynb) -- last updated: 10/19
 - Does winning a race increase the chance of winning the next one?
 
